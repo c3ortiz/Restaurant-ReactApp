@@ -20,10 +20,10 @@ const Chef = () => (
           <p className='p__opensans'>Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. </p>
         </div>
         <p className='p__opensans'>Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua. Ut Enim Ad Minim Veniam, Quis Nostrud Exercitation Ullamco Laboris Nisi Ut Aliquip Ex Ea Commodo Consequat.</p>
-      </div>
+      </div> 
 
       <div className='app__chef-sign'>
-        <p>Nicole Fernández</p>
+        <p>Kevin Luonivinek</p>
         <p className='p__opensans'>Chef & Founder</p>
         <img src={images.sign} alt='sign' />
       </div>
